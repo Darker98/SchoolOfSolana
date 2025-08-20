@@ -10,3 +10,6 @@
 [submodule "task4-Darker98"]
 	path = task4-Darker98
 	url = git@github.com:School-of-Solana/task4-Darker98
+[submodule "program-Darker98"]
+	path = program-Darker98
+	url = git@github.com:School-of-Solana/program-Darker98
