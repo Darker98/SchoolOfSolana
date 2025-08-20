@@ -1,0 +1,12 @@
+[submodule "task1-Darker98"]
+	path = task1-Darker98
+	url = git@github.com:School-of-Solana/task1-Darker98
+[submodule "task2-Darker98"]
+	path = task2-Darker98
+	url = git@github.com:School-of-Solana/task2-Darker98
+[submodule "task3-Darker98"]
+	path = task3-Darker98
+	url = git@github.com:School-of-Solana/task3-Darker98
+[submodule "task4-Darker98"]
+	path = task4-Darker98
+	url = git@github.com:School-of-Solana/task4-Darker98
