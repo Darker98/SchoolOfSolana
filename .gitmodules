@@ -13,3 +13,4 @@
 [submodule "program-Darker98"]
 	path = program-Darker98
 	url = git@github.com:School-of-Solana/program-Darker98
+	branch = main
